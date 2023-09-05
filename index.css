@@ -86,4 +86,26 @@ form{
     background: linear-gradient(333.52deg, #000235 24.58%, #010f42 84.85%, #E40913 104.96%);
     border-radius: 5px;
 }
+.box-info{
+    display: flex;
+    flex-direction: row;
+    color: white;
+    align-items: center;
+    padding: 40px;
+    justify-content: center;
+}
+.subtitle-main{
+    font-size: 20px;
+}
+.box-title{
+    font-size: 48px;
+    font-weight: 800;
+    padding-bottom: 30px;
+}
+.shadow{
+    width: 85%;
+    height: 7px;
+    background-color: rgba(0, 0, 0, 0.527);
+    margin: 0 auto;
+}
 
